@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustervetch",
+        "uuid": 17752668,
+        "checksum": "2yx7oh"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
